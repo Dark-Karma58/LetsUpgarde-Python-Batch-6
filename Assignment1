@@ -1,0 +1,11 @@
+1. what is Python? What are the ways to install Python in your PC?
+A. Python is one of the most popular programming languages. It was developed by Guido van Rossum, and released in 1991. It is used for Web Development, Software development and many more.
+Python can be downloaded and installed from the official website www.phython.org, or we can use notebooks such as Jupyter to run the Python.
+
+
+2. What are Code Evironments? Types?
+A. A code environment is a standalone and self-contained environment to run a Piece of code of a Particular Programming Language.
+There are 3 Types:
+I. Text Editors (EX. Notepad, Notepad++, Leafpad)
+II. Full IDEs (EX. Pycharm, Spyder, IDLE)
+III. Notebook Environments (EX. Jupyter, 
